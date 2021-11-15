@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="searchTitle">Procurar</string>
+
+    <string name="addPerson">Adicionar Pessoa</string>
+    <string name="editPerson">Editar Pessoa</string>
+
+    <string name="name">Nome</string>
+    <string name="gender">Gênero</string>
+    <string name="birth">Nascimento</string>
+    <string name="age">Idade</string>
+
+    <string name="male">M</string>
+    <string name="female">F</string>
+
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Deletar</string>
+    <string name="errorData">Dados não correspondem.</string>
+</resources>
